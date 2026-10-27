@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "Designy Outlet — Brands that don’t blend in." },
+    { "path": "/services", "title": "Services & Deliverables — Designy Outlet" },
+    { "path": "/work", "title": "Work & Portfolio (8 Cases) — Designy Outlet" },
+    { "path": "/about", "title": "About Us & Studio Manifesto — Designy Outlet" },
+    { "path": "/contact", "title": "Contact & Inquiries — Designy Outlet" }
+  ]
+}
